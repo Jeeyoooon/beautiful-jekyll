@@ -1,16 +1,30 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: JEEYOON OH
+subtitle: Data Analyst in Progress | Exploring the World of Data
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## About Me
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Hello! I’m Jeeyoon Oh, an aspiring data analyst with a passion for uncovering insights from data.  
+Currently, I’m pursuing a double major in **Management Information Systems** and **Data Science** at **Dongguk University, South Korea**, 
+while also completing a **Data Analytics Co-op program** at **ILSC Greystone College, Canada**.  
 
-What else do you need?
+### What I Do:
+- Analyze data using **Python, R, SQL, and Java**  
+- Solve problems through **Hackerrank, Kaggle challenges, and academic projects**  
+- Continuously develop my skills through **competitions, coursework, and certifications**  
 
-### My story
+### Why Work With Me?
+- **Bilingual in Korean & English (TOEIC 880+)**, with expertise in data-related terminology  
+- **Strong academic record (GPA 4.12)**—I take my work seriously  
+- Certified in **ADSP & Computer Proficiency Level 1**, proving my analytical foundation  
+- Experience in **collaborative environments** (BDA Big Data Analysis Study Group Leader, Band Club Member)  
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## My Projects  
+Rather than just talking about my skills, I prefer to **show** them. Check out my projects on [GitHub](https://github.com/Jeeyoooon), 
+where I share my coding journey—from academic assignments to Kaggle competitions.  
+
+---
+
+💡 Always open to new opportunities! Feel free to connect.  
