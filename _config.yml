@@ -21,8 +21,6 @@ author: Jeeyoon Oh
 
 navbar-links:
   About Me:
-    en: "aboutme-en"
-    kr: "aboutme-kr"
   Tech Blog:
     en: "techblog-en"
     kr: "techblog-kr"
